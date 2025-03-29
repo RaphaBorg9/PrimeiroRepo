@@ -6,3 +6,5 @@ ahhhhhhh
 alooo
 
 oiii
+
+merge automatico
